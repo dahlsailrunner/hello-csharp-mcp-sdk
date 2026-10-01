@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "Hello.AspNetCoreMcp.AppHost/Hello.AspNetCoreMcp.AppHost.csproj"
+  }
+}

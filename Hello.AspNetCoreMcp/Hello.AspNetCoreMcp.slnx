@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Hello.AspNetCoreMcp.ApiService/Hello.AspNetCoreMcp.ApiService.csproj" />
+  <Project Path="Hello.AspNetCoreMcp.AppHost/Hello.AspNetCoreMcp.AppHost.csproj" />
+  <Project Path="Hello.AspNetCoreMcp.McpServer/Hello.AspNetCoreMcp.McpServer.csproj" />
+  <Project Path="Hello.AspNetCoreMcp.ServiceDefaults/Hello.AspNetCoreMcp.ServiceDefaults.csproj" />
+</Solution>
